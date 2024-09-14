@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disease Predictor</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
+</head>
+<body>
+    <!-- Disease Predictor Section -->
+    <section id="predictor" class="mt-8 mb-5 px-4 sm:px-6 lg:px-8">
+        <h2 class="text-center text-white py-2 text-3xl">Disease Predictor</h2>
+        <p class="text-center text-gray-300 mb-3">Provide your symptoms and health details to get a preliminary
+            prediction of your condition.</p>
+        <form id="symptomForm" class="space-y-2 bg-gray-800 p-6 rounded-lg shadow-lg animate__animated animate__zoomIn">
+            <div class="form-group">
+                <label for="fever" class="form-label text-white">Fever:</label>
+                <select id="fever" class="form-control">
+                    <option value="">Select</option>
+                    <option value="Yes">Yes</option>
+                    <option value="No">No</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="cough" class="form-label text-white">Cough:</label>
+                <select id="cough" class="form-control">
+                    <option value="">Select</option>
+                    <option value="Yes">Yes</option>
+                    <option value="No">No</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="fatigue" class="form-label text-white">Fatigue:</label>
+                <select id="fatigue" class="form-control">
+                    <option value="">Select</option>
+                    <option value="Yes">Yes</option>
+                    <option value="No">No</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="difficultyBreathing" class="form-label text-white">Difficulty Breathing:</label>
+                <select id="difficultyBreathing" class="form-control">
+                    <option value="">Select</option>
+                    <option value="Yes">Yes</option>
+                    <option value="No">No</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="age" class="form-label text-white">Age (in years):</label>
+                <input type="number" id="age" class="form-control" min="0" placeholder="Enter age">
+            </div>
+            <div class="form-group">
+                <label for="gender" class="form-label text-white">Gender:</label>
+                <select id="gender" class="form-control">
+                    <option value="">Select</option>
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="bloodPressure" class="form-label text-white">Blood Pressure:</label>
+                <select id="bloodPressure" class="form-control">
+                    <option value="">Select</option>
+                    <option value="Normal">Normal</option>
+                    <option value="High">High</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="cholesterolLevel" class="form-label text-white">Cholesterol Level:</label>
+                <select id="cholesterolLevel" class="form-control">
+                    <option value="">Select</option>
+                    <option value="Normal">Normal</option>
+                    <option value="High">High</option>
+                </select>
+            </div>
+            <button type="submit" class="btn btn-primary mt-3">Predict Disease</button>
+        </form>
+        <div id="result" class="mt-3 text-white"></div>
+    </section>
+    <script>
+                document.getElementById('symptomForm').addEventListener('submit', function (event) {
+            event.preventDefault();
+
+            // Gather form data
+            const formData = {
+                fever: document.getElementById('fever').value,
+                cough: document.getElementById('cough').value,
+                fatigue: document.getElementById('fatigue').value,
+                difficultyBreathing: document.getElementById('difficultyBreathing').value,
+                age: document.getElementById('age').value,
+                gender: document.getElementById('gender').value,
+                bloodPressure: document.getElementById('bloodPressure').value,
+                cholesterolLevel: document.getElementById('cholesterolLevel').value,
+            };
+
+            // Send data to Flask backend
+            fetch('/predict', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(formData)
+            })
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('result').innerHTML = `<h3>Predicted Disease:</h3><p>${data.result}</p>`;
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    document.getElementById('result').innerHTML = `<p class="text-red-500">An error occurred. Please try again.</p>`;
+                });
+        });
+    </script>
+</body>
+</html>
