@@ -1,0 +1,67 @@
+{
+  "id": "8ba36d52-8503-4269-bb38-820d2d05c0fd",
+  "name": "Support",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "📞 Customer Care Number",
+                  "type": "description",
+                  "text": [
+                    "Click the option below to call our customer care team directly or email us for support."
+                  ]
+                }
+              ],
+              [
+                {
+                  "options": [
+                    {
+                      "link": "tel:+917510021591",
+                      "text": "Call Customer Care"
+                    },
+                    {
+                      "link": "mailto:safarbots@gmail.com",
+                      "text": "Email Support"
+                    }
+                  ],
+                  "type": "chips"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

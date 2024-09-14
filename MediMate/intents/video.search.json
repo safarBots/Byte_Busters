@@ -1,0 +1,201 @@
+{
+  "id": "7d70e230-a4c1-444c-8867-f026eca6d89c",
+  "name": "video.search",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "video.search",
+      "affectedContexts": [
+        {
+          "name": "search-video",
+          "lifespan": 5,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "86b2de80-6ef4-417b-a960-8359d2742dc3",
+          "name": "video",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$video",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d89ae382-2c50-4639-aa3a-51b444b7dd5b",
+          "name": "movie",
+          "required": false,
+          "dataType": "@movie",
+          "value": "$movie",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "db43a49b-e5dd-4b19-aebc-083ec81f12d5",
+          "name": "person",
+          "required": false,
+          "dataType": "@person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "28111a98-fef3-40d8-99c0-d70d3c123c89",
+          "name": "song",
+          "required": false,
+          "dataType": "@song",
+          "value": "$song",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "528b7e32-3339-4cfa-8c13-85bba25b2346",
+          "name": "movie-genre",
+          "required": false,
+          "dataType": "@movie-genre",
+          "value": "$movie-genre",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "93566692-a249-425b-a5d4-d2c43300bcf2",
+          "name": "music-genre",
+          "required": false,
+          "dataType": "@sys.music-genre",
+          "value": "$music-genre",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f677861e-9e6e-4e19-b80b-d6c433e47345",
+          "name": "service",
+          "required": false,
+          "dataType": "@video-service",
+          "value": "$service",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7c6daeaf-34f9-4f42-bfa5-cbf1e860a62f",
+          "name": "trailer",
+          "required": false,
+          "dataType": "@trailer",
+          "value": "$trailer",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6da7bfaf-4038-4772-9250-7ce0bf7b6306",
+          "name": "year",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$year",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "29ffce40-648a-4bdd-88f1-e9d13625ad0f",
+          "name": "language",
+          "required": false,
+          "dataType": "@sys.language",
+          "value": "$language",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "icon": {
+                    "type": "chevron_right",
+                    "color": "#FF0000"
+                  },
+                  "link": "https://www.youtube.com/results?search_query\u003d$person",
+                  "text": "Search on YouTube",
+                  "type": "button"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

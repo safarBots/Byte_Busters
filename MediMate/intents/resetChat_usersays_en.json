@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1cf87ca7-b8f3-4ddb-b7e4-4f97e7afd66b",
+    "data": [
+      {
+        "text": "reset",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "413e977b-fd97-4f69-ba3f-91466f72c81f",
+    "data": [
+      {
+        "text": "restart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17b633f8-9426-417c-86f3-dae30e7717d2",
+    "data": [
+      {
+        "text": "restart conversation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7686ef1d-b89e-48b5-9536-184755061749",
+    "data": [
+      {
+        "text": "start over",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c321c899-1460-47b5-8291-09cf5282fdc4",
+    "data": [
+      {
+        "text": "reset chat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

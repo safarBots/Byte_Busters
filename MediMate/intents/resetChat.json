@@ -1,0 +1,82 @@
+{
+  "id": "b0635c28-a6ec-483f-9f9c-75b6bfa809e5",
+  "name": "resetChat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The conversation has been reset. Say Hi to start over."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "text",
+                  "text": [
+                    "The conversation has been reset. Say Hi to start over."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "action": {
+                        "type": "postback",
+                        "payload": "Hi"
+                      },
+                      "text": "Hi"
+                    },
+                    {
+                      "text": "Hey",
+                      "action": {
+                        "type": "postback",
+                        "payload": "Hey"
+                      }
+                    },
+                    {
+                      "text": "Hello",
+                      "action": {
+                        "type": "postback",
+                        "payload": "Hello"
+                      }
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

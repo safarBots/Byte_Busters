@@ -1,0 +1,28 @@
+[
+  {
+    "id": "274483b3-3bcc-4fdc-b45f-e7f312722042",
+    "data": [
+      {
+        "text": "help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40f3644d-42a7-4cd6-ad74-e03ac900090a",
+    "data": [
+      {
+        "text": "Contact Support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,75 @@
+{
+  "id": "d4b1f3b0-9715-42e7-b3ab-807a6b02f0ee",
+  "name": "therapySession",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "image": {
+                    "accessibilityText": "Therapy session",
+                    "src": {
+                      "rawUrl": "https://www.betterhelp.com/static/og-image-1200-630.jpg"
+                    }
+                  },
+                  "type": "info",
+                  "actionLink": "https://www.betterhelp.com/",
+                  "title": "Need Professional Help?",
+                  "subtitle": "Get matched with a licensed therapist today!"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "text": [
+                    "If you\u0027re feeling stressed, anxious, or need someone to talk to, BetterHelp offers online therapy sessions with licensed professionals. Click below to start your journey towards better mental health."
+                  ],
+                  "type": "description"
+                },
+                {
+                  "text": "Start Therapy Session",
+                  "type": "button",
+                  "icon": {
+                    "type": "healing",
+                    "color": "#FF9800"
+                  },
+                  "link": "https://www.betterhelp.com/"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

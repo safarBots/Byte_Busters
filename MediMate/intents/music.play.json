@@ -1,0 +1,220 @@
+{
+  "id": "63165e95-1cac-41ac-97b0-9b6650728c63",
+  "name": "music.play",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "music.play",
+      "affectedContexts": [
+        {
+          "name": "play-music",
+          "lifespan": 5,
+          "parameters": {}
+        },
+        {
+          "name": "music-player-control",
+          "lifespan": 3,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "275c0264-9074-4f52-b409-50b0179489ab",
+          "name": "song",
+          "required": false,
+          "dataType": "@song",
+          "value": "$song",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "90b49bfb-cf67-41f5-9a7a-ad169148c8d6",
+          "name": "artist",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "value": "$artist",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f30f2ee0-5a89-4699-a59a-8e6538e393af",
+          "name": "album",
+          "required": false,
+          "dataType": "@music-album",
+          "value": "$album",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a206f28e-5893-427a-aa53-d37ec1d97651",
+          "name": "genre",
+          "required": false,
+          "dataType": "@sys.music-genre",
+          "value": "$genre",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6360cbf1-0400-47cf-b09c-8706cef1f6a1",
+          "name": "playlist",
+          "required": false,
+          "dataType": "@playlist",
+          "value": "$playlist",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "eb5e49e8-98c2-4786-862b-22d5b1d449f8",
+          "name": "service",
+          "required": false,
+          "dataType": "@music-service",
+          "value": "$service",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "420f7704-4e84-49f4-aa2a-db9b96b9527c",
+          "name": "sort",
+          "required": false,
+          "dataType": "@music-sort",
+          "value": "$sort",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "33c0ce54-16dc-40b6-b5dd-1f2cc1682255",
+          "name": "language",
+          "required": false,
+          "dataType": "@sys.language",
+          "value": "$language",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "22369c87-e5d0-4f03-8a07-7e618fd5b251",
+          "name": "start-year",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$start-year",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "5d851bf2-7df6-4ba8-a38f-cee3ad602ad5",
+          "name": "end-year",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$end-year",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c0eff5c0-1a99-47c3-8a3e-8ee8eb32f0c5",
+          "name": "amount",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$amount",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "button",
+                  "link": "https://open.spotify.com/search/$song",
+                  "text": "Search on Spotify",
+                  "icon": {
+                    "type": "chevron_right",
+                    "color": "#FF0000"
+                  }
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,2792 @@
+[
+  {
+    "id": "5ac0882a-0414-436f-bbf8-a8dd0d9bc881",
+    "data": [
+      {
+        "text": "search for ",
+        "userDefined": false
+      },
+      {
+        "text": "Oblivion",
+        "meta": "@movie",
+        "alias": "movie",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "IMDb",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "386191bb-1d94-415d-af39-d65eabe8bfc0",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Goldfrapp",
+        "meta": "@person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "YouTube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ad4905f-079d-411e-9050-d9d6f7b64c69",
+    "data": [
+      {
+        "text": "search ",
+        "userDefined": false
+      },
+      {
+        "text": "Monster",
+        "meta": "@song",
+        "alias": "song",
+        "userDefined": false
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "Rihanna",
+        "meta": "@person",
+        "alias": "person",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Eminem",
+        "meta": "@person",
+        "alias": "person",
+        "userDefined": true
+      },
+      {
+        "text": " video",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4739dd24-15cf-4c17-8ea6-aa34522aaff3",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Disney cartoons",
+        "meta": "@sys.any",
+        "alias": "video",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3984471-8204-49c7-b599-fb954c25978c",
+    "data": [
+      {
+        "text": "movies with ",
+        "userDefined": false
+      },
+      {
+        "text": "Scarlett Johansson",
+        "meta": "@person",
+        "alias": "person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fa7d800-ea21-49e3-a902-37dab3ca5a6d",
+    "data": [
+      {
+        "text": "find movies starring ",
+        "userDefined": false
+      },
+      {
+        "text": "Bruce Willis",
+        "meta": "@person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5118757c-1385-448a-866f-7085fb6ea834",
+    "data": [
+      {
+        "text": "can you find the lodge music from ",
+        "userDefined": false
+      },
+      {
+        "text": "Beastie Boys",
+        "meta": "@person",
+        "alias": "person",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "YouTube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab72b6cb-1103-44e6-9b49-95ae7e5794b8",
+    "data": [
+      {
+        "text": "can you find ",
+        "userDefined": false
+      },
+      {
+        "text": "video song",
+        "meta": "@sys.any",
+        "alias": "video",
+        "userDefined": true
+      },
+      {
+        "text": " for me from my mobile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d4c4b34-7967-4244-b165-918239f7d7ea",
+    "data": [
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": false
+      },
+      {
+        "text": " search for ",
+        "userDefined": false
+      },
+      {
+        "text": "sushi recipes",
+        "meta": "@sys.any",
+        "alias": "video",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b203fa5-c2cc-4d2d-b080-9cbc020d5812",
+    "data": [
+      {
+        "text": "find the ",
+        "userDefined": false
+      },
+      {
+        "text": "trailer",
+        "meta": "@trailer",
+        "alias": "trailer",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "The Angry Birds Movie",
+        "meta": "@movie",
+        "alias": "movie",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f318e89-9e02-4aa3-8b81-df9bc469f477",
+    "data": [
+      {
+        "text": "search ",
+        "userDefined": false
+      },
+      {
+        "text": "girls",
+        "meta": "@sys.any",
+        "alias": "video",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "video",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4acc24b4-4663-4190-a9d3-c846dbd8f6bc",
+    "data": [
+      {
+        "text": "find some videos in ",
+        "userDefined": false
+      },
+      {
+        "text": "Hindi",
+        "meta": "@sys.language",
+        "alias": "language",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "527babb1-9d0e-4375-8dc9-db08c4ab3b8e",
+    "data": [
+      {
+        "text": "can",
+        "userDefined": false
+      },
+      {
+        "text": " you find me a movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1c5042a-bf04-4e8e-b14e-20cabf9889c2",
+    "data": [
+      {
+        "text": "find me ",
+        "userDefined": false
+      },
+      {
+        "text": "video",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9cd459f0-ea93-4402-8bcb-d8b115d45da1",
+    "data": [
+      {
+        "text": "I need some videos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "677820e5-b7fd-4e14-9b00-9a7de98c4d61",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "romantic comedies",
+        "meta": "@movie-genre",
+        "alias": "movie-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ed3df78-6f8d-492a-beef-c6643e6b51b1",
+    "data": [
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "search",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "funny puppies",
+        "meta": "@sys.any",
+        "alias": "video",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec8aa4d7-2428-498f-81fa-2cc06f691767",
+    "data": [
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "search",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1361587-bd66-4304-b8f2-7ab99e5b73ef",
+    "data": [
+      {
+        "text": "on ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": true
+      },
+      {
+        "text": " search up ",
+        "userDefined": false
+      },
+      {
+        "text": "makeup",
+        "meta": "@sys.any",
+        "alias": "video",
+        "userDefined": true
+      },
+      {
+        "text": " videos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "358c8ec4-4ada-4d22-a04e-edd1b627f5f6",
+    "data": [
+      {
+        "text": "find me ",
+        "userDefined": false
+      },
+      {
+        "text": "Blackbird",
+        "meta": "@song",
+        "alias": "song",
+        "userDefined": true
+      },
+      {
+        "text": " song ",
+        "userDefined": false
+      },
+      {
+        "text": "video",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e0dae74-fb80-4776-8f87-cb2562c87208",
+    "data": [
+      {
+        "text": "can",
+        "userDefined": false
+      },
+      {
+        "text": " you find a movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01f5a500-c896-4818-9855-114c314123a0",
+    "data": [
+      {
+        "text": "I want to see ",
+        "userDefined": false
+      },
+      {
+        "text": "video",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Cola Loca",
+        "meta": "@sys.any",
+        "alias": "video",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bfdcd399-13f9-4d85-b597-64ffe567db7e",
+    "data": [
+      {
+        "text": "find me something to watch with ",
+        "userDefined": false
+      },
+      {
+        "text": "Peter Dinklage",
+        "meta": "@person",
+        "alias": "person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36626ab1-cff7-4484-84fb-5fdeec86ed1a",
+    "data": [
+      {
+        "text": "find the ",
+        "userDefined": false
+      },
+      {
+        "text": "video",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Paint It Black",
+        "meta": "@sys.any",
+        "alias": "video",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d4afafe-a051-4e2d-a5ae-74b85f8b501a",
+    "data": [
+      {
+        "text": "search ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa085b68-f2cd-4e9f-97b5-edf55bb1628b",
+    "data": [
+      {
+        "text": "find some ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "meta": "@movie-genre",
+        "alias": "movie-genre",
+        "userDefined": true
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87b75a3c-194a-4a9f-9c95-115bb260d17e",
+    "data": [
+      {
+        "text": "search ",
+        "userDefined": false
+      },
+      {
+        "text": "Jeeves and Wooster",
+        "meta": "@movie",
+        "alias": "movie",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b828c524-e3ba-403d-890e-161feed64646",
+    "data": [
+      {
+        "text": "search videos ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cheese",
+        "meta": "@sys.any",
+        "alias": "video",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87f6e1dc-4be8-4b69-93de-345563945faf",
+    "data": [
+      {
+        "text": "look ",
+        "userDefined": false
+      },
+      {
+        "text": "up",
+        "userDefined": false
+      },
+      {
+        "text": " the movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc129108-774d-451b-8ba7-01956d6568ec",
+    "data": [
+      {
+        "text": "I want to watch some videos ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Pat and Jen",
+        "meta": "@sys.any",
+        "alias": "video",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d83fc435-7982-4cff-b136-fc4f44fdd9d6",
+    "data": [
+      {
+        "text": "can",
+        "userDefined": false
+      },
+      {
+        "text": " you find the movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1762c055-ca30-4928-b567-59f01d6f7c1a",
+    "data": [
+      {
+        "text": "look ",
+        "userDefined": false
+      },
+      {
+        "text": "up",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Lydia or field love Kesha",
+        "meta": "@sys.any",
+        "alias": "video",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "video",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87fedde9-8a0f-4b7f-86c9-ce6ffeea3820",
+    "data": [
+      {
+        "text": "find videos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a811fa3-dd55-4180-9e5a-6e199cbb0eb8",
+    "data": [
+      {
+        "text": "search ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Eat Pray Love",
+        "meta": "@movie",
+        "alias": "movie",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "trailer",
+        "meta": "@trailer",
+        "alias": "trailer",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d55c045-bdb6-4724-b70a-1f7c11d75c5d",
+    "data": [
+      {
+        "text": "do you have ",
+        "userDefined": false
+      },
+      {
+        "text": "any",
+        "userDefined": false
+      },
+      {
+        "text": " movie directed by ",
+        "userDefined": false
+      },
+      {
+        "text": "Tarantino",
+        "meta": "@person",
+        "alias": "person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96bd57a1-2690-4f0e-8a75-5c3de199443d",
+    "data": [
+      {
+        "text": "can you find some ",
+        "userDefined": false
+      },
+      {
+        "text": "comedies",
+        "meta": "@movie-genre",
+        "alias": "movie-genre",
+        "userDefined": true
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "Bruce Willis",
+        "meta": "@person",
+        "alias": "person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d3aa9ed-c3a0-46f1-a277-8904befa5821",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Nirvana",
+        "meta": "@person",
+        "alias": "person",
+        "userDefined": true
+      },
+      {
+        "text": " videos ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45c78881-1490-41d2-acde-ab37332531a2",
+    "data": [
+      {
+        "text": "find me a movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d343eee9-76be-4117-939d-4ffb239c40fb",
+    "data": [
+      {
+        "text": "search ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Justin Timberlake",
+        "meta": "@person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88c29bb3-9ac0-4b0f-a9b4-1d4078bb2863",
+    "data": [
+      {
+        "text": "look for videos ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "funny cats",
+        "meta": "@sys.any",
+        "alias": "video",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e54bd6ed-3165-47dc-9a54-8bcccbc94bc5",
+    "data": [
+      {
+        "text": "search",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Italian cuisine",
+        "meta": "@sys.any",
+        "alias": "video",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2fee516-7620-459f-9519-2addda8892f4",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "meta": "@movie-genre",
+        "alias": "movie-genre",
+        "userDefined": true
+      },
+      {
+        "text": " movies ",
+        "userDefined": false
+      },
+      {
+        "text": "of year",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2016",
+        "meta": "@sys.number",
+        "alias": "year",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "423b38c7-ca5a-4506-88cf-04b4eee1001a",
+    "data": [
+      {
+        "text": "search ",
+        "userDefined": false
+      },
+      {
+        "text": "Chuck Norris vs Games",
+        "meta": "@sys.any",
+        "alias": "video",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94312b29-ad53-4387-bc86-064ecc8edbda",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "rock",
+        "meta": "@movie-genre",
+        "alias": "movie-genre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "music",
+        "userDefined": false
+      },
+      {
+        "text": " videos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aad107fd-dcc7-488e-b669-25d963cbc2bc",
+    "data": [
+      {
+        "text": "search on the ",
+        "userDefined": false
+      },
+      {
+        "text": "YouTube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": false
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f232bcdf-8e39-408c-8030-984999589058",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "music video",
+        "meta": "@sys.any",
+        "alias": "video",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46982038-9c5d-4580-8319-5c40967a4e1d",
+    "data": [
+      {
+        "text": "do you have a film directed by ",
+        "userDefined": false
+      },
+      {
+        "text": "Tarantino",
+        "meta": "@person",
+        "alias": "person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "084269fc-912d-474e-a659-c593f60a7b72",
+    "data": [
+      {
+        "text": "can you find ",
+        "userDefined": false
+      },
+      {
+        "text": "cartoons",
+        "meta": "@sys.any",
+        "alias": "video",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6a8bd34-54ee-4365-a1a4-397062ed26b5",
+    "data": [
+      {
+        "text": "look ",
+        "userDefined": false
+      },
+      {
+        "text": "up",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "412bd078-7ba4-456e-a224-880b20290f42",
+    "data": [
+      {
+        "text": "search ",
+        "userDefined": false
+      },
+      {
+        "text": "up",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45cac53d-9015-41cf-8c07-41858e4fcc04",
+    "data": [
+      {
+        "text": "search for ",
+        "userDefined": false
+      },
+      {
+        "text": "blame it on me",
+        "meta": "@song",
+        "alias": "song",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9a248a7-6cf9-48ab-ba1f-1cae1b5b0f19",
+    "data": [
+      {
+        "text": "search for movies with ",
+        "userDefined": false
+      },
+      {
+        "text": "Emma Watson",
+        "meta": "@person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8f1d763-eb21-488f-88f6-5717ed83e5d1",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "video",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Sugar Art",
+        "meta": "@sys.any",
+        "alias": "video",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2c5ea39-2432-419a-b836-2aa11c3c521a",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47f5070c-aa38-4426-8298-f679ff8813ae",
+    "data": [
+      {
+        "text": "search for movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d33f9ca0-bc4b-4052-8f28-78f2de0acaa8",
+    "data": [
+      {
+        "text": "search videos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "389c8f21-fe1f-4183-81c6-c0d78c74e9eb",
+    "data": [
+      {
+        "text": "find some videos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "579755ee-bef6-4c76-89c8-e3398eb7f1b3",
+    "data": [
+      {
+        "text": "look for movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71cf848d-bd43-4ed6-b563-a9ae60f364d7",
+    "data": [
+      {
+        "text": "can",
+        "userDefined": false
+      },
+      {
+        "text": " you search me ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e6ae984-975d-4c1d-b76d-259cbef9d511",
+    "data": [
+      {
+        "text": "find me ",
+        "userDefined": false
+      },
+      {
+        "text": "Daniel Redcliff",
+        "meta": "@person",
+        "alias": "person",
+        "userDefined": true
+      },
+      {
+        "text": " video",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36f10c91-c0e2-43f3-aaa6-8f4ddd50cb35",
+    "data": [
+      {
+        "text": "do you have a movie with ",
+        "userDefined": false
+      },
+      {
+        "text": "Paula Echevaria",
+        "meta": "@person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3880a6be-0eee-49e5-92c6-8aea64cb22d6",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Mayfair Audi",
+        "meta": "@sys.any",
+        "alias": "video",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Piccadilly",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a31a596f-e469-44b7-9520-00b4decaba82",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Tarantino",
+        "meta": "@person",
+        "alias": "person",
+        "userDefined": true
+      },
+      {
+        "text": " movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0bd8512-1208-4fa9-a96c-c0461bd37d22",
+    "data": [
+      {
+        "text": "search ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ddb16640-5d55-436a-a2c7-ff1a2cca0f2d",
+    "data": [
+      {
+        "text": "search ",
+        "userDefined": false
+      },
+      {
+        "text": "Somebody that I used to know",
+        "meta": "@song",
+        "alias": "song",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3e97978-d175-484f-9402-bef5b1106bb5",
+    "data": [
+      {
+        "text": "search for videos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a357cabe-92c0-44a0-a89f-df0e1d18ad42",
+    "data": [
+      {
+        "text": "can",
+        "userDefined": false
+      },
+      {
+        "text": " you search ",
+        "userDefined": false
+      },
+      {
+        "text": "up",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4419209-bafd-4a79-8983-d7d9272802aa",
+    "data": [
+      {
+        "text": "show me ",
+        "userDefined": false
+      },
+      {
+        "text": "Michael Jackson",
+        "meta": "@person",
+        "alias": "person",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "YouTube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e754039-9364-4aa3-bbce-2bf13fd18509",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "video",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Lego Lord Business Lair review",
+        "meta": "@sys.any",
+        "alias": "video",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79622309-ac12-403e-a512-c6b39d2298f7",
+    "data": [
+      {
+        "text": "search in ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "041dab1d-6fda-42fc-a5c9-7c48d76baf35",
+    "data": [
+      {
+        "text": "search ",
+        "userDefined": false
+      },
+      {
+        "text": "video",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64588f93-b497-46f2-ab7c-946e50f31864",
+    "data": [
+      {
+        "text": "find my videos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "610efa7d-4358-4d11-a525-51db9660ae74",
+    "data": [
+      {
+        "text": "can",
+        "userDefined": false
+      },
+      {
+        "text": " you find videos for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e9e5ed2-1a30-4c27-a4cf-50168bcbcd57",
+    "data": [
+      {
+        "text": "search for ",
+        "userDefined": false
+      },
+      {
+        "text": "Bengali",
+        "meta": "@sys.language",
+        "alias": "language",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "movies",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52437954-6c84-4917-bfc6-12d0732bcee0",
+    "data": [
+      {
+        "text": "find the ",
+        "userDefined": false
+      },
+      {
+        "text": "video",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Paint It Black",
+        "meta": "@sys.any",
+        "alias": "video",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fada42c3-7909-4119-8555-4434e5dd99fe",
+    "data": [
+      {
+        "text": "find a ",
+        "userDefined": false
+      },
+      {
+        "text": "video",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c3e0a1e-3d1d-43b8-bdb4-863fa7973bf9",
+    "data": [
+      {
+        "text": "search ",
+        "userDefined": false
+      },
+      {
+        "text": "abs exercises",
+        "meta": "@sys.any",
+        "alias": "video",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a09640db-33b8-44b4-b8c2-98c5984a4506",
+    "data": [
+      {
+        "text": "find me a ",
+        "userDefined": false
+      },
+      {
+        "text": "video",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2053d03-c245-4428-9ebf-d4e99f1ac181",
+    "data": [
+      {
+        "text": "find movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "290acd29-3e42-47f4-ac6d-00374be055c9",
+    "data": [
+      {
+        "text": "can",
+        "userDefined": false
+      },
+      {
+        "text": " you search ",
+        "userDefined": false
+      },
+      {
+        "text": "up",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d31d683d-7392-48c9-a420-18370365974b",
+    "data": [
+      {
+        "text": "find the movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7892c6f-2f27-46bb-b1ed-4a7b6522df4a",
+    "data": [
+      {
+        "text": "find me a ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "meta": "@movie-genre",
+        "alias": "movie-genre",
+        "userDefined": false
+      },
+      {
+        "text": " movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06cc95a1-322c-4536-bea4-249309d0babe",
+    "data": [
+      {
+        "text": "please find me ",
+        "userDefined": false
+      },
+      {
+        "text": "Michael Jackson",
+        "meta": "@person",
+        "alias": "person",
+        "userDefined": true
+      },
+      {
+        "text": " video",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65e7e704-1835-4070-8324-c525c9d5001e",
+    "data": [
+      {
+        "text": "search for ",
+        "userDefined": false
+      },
+      {
+        "text": "pop",
+        "meta": "@sys.music-genre",
+        "alias": "music-genre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "music",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "video",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5316d52e-f5ca-4c0e-bbd4-0567b641ed8d",
+    "data": [
+      {
+        "text": "do",
+        "userDefined": true
+      },
+      {
+        "text": " you have some ",
+        "userDefined": false
+      },
+      {
+        "text": "Michael Jackson",
+        "meta": "@person",
+        "alias": "person",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "videos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3727552-bd92-4ed7-9ece-90ecd1264337",
+    "data": [
+      {
+        "text": "I want you to look for some ",
+        "userDefined": false
+      },
+      {
+        "text": "video",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b643697-b315-4580-ba73-5fe8523287ce",
+    "data": [
+      {
+        "text": "can",
+        "userDefined": false
+      },
+      {
+        "text": " you find me videos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4700b54f-321c-44f1-a280-52636bcb748f",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "meta": "@movie-genre",
+        "alias": "movie-genre",
+        "userDefined": true
+      },
+      {
+        "text": " movies of ",
+        "userDefined": false
+      },
+      {
+        "text": "2016",
+        "meta": "@sys.number",
+        "alias": "year",
+        "userDefined": true
+      },
+      {
+        "text": " year",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1f30849-fe0b-4886-b465-cd0af03fb964",
+    "data": [
+      {
+        "text": "family",
+        "meta": "@movie-genre",
+        "alias": "movie-genre",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "movies",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48d3a504-13dc-457e-acfd-a212ae1d8631",
+    "data": [
+      {
+        "text": "find me ",
+        "userDefined": false
+      },
+      {
+        "text": "Michael Jackson",
+        "meta": "@person",
+        "alias": "person",
+        "userDefined": true
+      },
+      {
+        "text": " video",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2dcd072d-de23-4fa1-967b-982f6a287767",
+    "data": [
+      {
+        "text": "find me ",
+        "userDefined": false
+      },
+      {
+        "text": "Enrique Iglesias",
+        "meta": "@person",
+        "alias": "person",
+        "userDefined": true
+      },
+      {
+        "text": " video",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5bb93e23-a7e4-4a00-8b44-b5febafcbee2",
+    "data": [
+      {
+        "text": "give",
+        "userDefined": false
+      },
+      {
+        "text": " me a movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fa1711e-a8d0-41cb-8481-7be0683804c1",
+    "data": [
+      {
+        "text": "look ",
+        "userDefined": false
+      },
+      {
+        "text": "up",
+        "userDefined": false
+      },
+      {
+        "text": " videos ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "monster high",
+        "meta": "@sys.any",
+        "alias": "video",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c91072d-1ba1-4069-8f6a-7e87ff40a456",
+    "data": [
+      {
+        "text": "I want a movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ecbd6ae4-3742-4a58-b26d-a9f41249f048",
+    "data": [
+      {
+        "text": "find movies directed by ",
+        "userDefined": false
+      },
+      {
+        "text": "Tarantino",
+        "meta": "@person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00f5c633-72ee-4043-a7f0-98c68674832d",
+    "data": [
+      {
+        "text": "search",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "trailer",
+        "meta": "@trailer",
+        "alias": "trailer",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Ex-Machina",
+        "meta": "@movie",
+        "alias": "movie",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9631c68-2505-42ae-b023-f8f2823c3226",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "userDefined": false
+      },
+      {
+        "text": " something ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "userDefined": false
+      },
+      {
+        "text": " watch with ",
+        "userDefined": false
+      },
+      {
+        "text": "Peter Dinklage",
+        "meta": "@person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8af90caa-7c62-4550-8923-6b6f9d8fc936",
+    "data": [
+      {
+        "text": "find some movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46fb06d3-851a-4845-a9a9-d83bb2fb20da",
+    "data": [
+      {
+        "text": "find me ",
+        "userDefined": false
+      },
+      {
+        "text": "apple pie recipes",
+        "meta": "@sys.any",
+        "alias": "video",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff08e1ed-1bba-4e0d-9270-fae7ee21045e",
+    "data": [
+      {
+        "text": "search ",
+        "userDefined": false
+      },
+      {
+        "text": "Harry Potter parody",
+        "meta": "@sys.any",
+        "alias": "video",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0057d2c2-3a47-4170-a18c-f34c35685a50",
+    "data": [
+      {
+        "text": "look ",
+        "userDefined": false
+      },
+      {
+        "text": "up",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "video",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85a6075d-c84d-4c33-88e6-e398826be296",
+    "data": [
+      {
+        "text": "search ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Nirvana",
+        "meta": "@person",
+        "alias": "person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc704dd3-2e48-46a8-90ab-3aa0eb94cf6f",
+    "data": [
+      {
+        "text": "search for movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4c26aca-1f13-4ee1-8f0f-35e8502da2fa",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "video",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3df205c9-5b6f-4d13-ac37-9c631aaff4ff",
+    "data": [
+      {
+        "text": "look ",
+        "userDefined": false
+      },
+      {
+        "text": "up",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Lego Batman 3 Beyond Gotham",
+        "meta": "@sys.any",
+        "alias": "video",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab713c1c-13c0-4d7d-9397-c593d7222d60",
+    "data": [
+      {
+        "text": "I want movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b601cecc-eabf-4dad-b36e-8d905c764808",
+    "data": [
+      {
+        "text": "search ",
+        "userDefined": false
+      },
+      {
+        "text": "Madonna",
+        "meta": "@person",
+        "alias": "person",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "video",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "34a25ad8-4a4c-4e32-8042-4a6d569c7f24",
+    "data": [
+      {
+        "text": "I want you to search for me a movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c90cd38c-d174-4740-b084-28cd2a8b7581",
+    "data": [
+      {
+        "text": "find a movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d2ffec5-3e1c-41d8-bf70-59e22ad9b3e6",
+    "data": [
+      {
+        "text": "search ",
+        "userDefined": false
+      },
+      {
+        "text": "Sponge Bob",
+        "meta": "@movie",
+        "alias": "movie",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "meta": "@video-service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d23b1d9-ca89-439f-9d60-c4418482431c",
+    "data": [
+      {
+        "text": "find me some videos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9bdf7c18-9e68-458b-89de-41c7e9216421",
+    "data": [
+      {
+        "text": "can",
+        "userDefined": false
+      },
+      {
+        "text": " you find videos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

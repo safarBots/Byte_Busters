@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ab14378d-c2bc-4534-ab78-c1e3b46e7ca8",
+    "data": [
+      {
+        "text": "i want therapy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ece9df1-1106-4e6d-a29a-bba32876bb38",
+    "data": [
+      {
+        "text": "therapy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b626f71-bb05-4ce5-abb4-6e931bed504c",
+    "data": [
+      {
+        "text": "therapy session",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

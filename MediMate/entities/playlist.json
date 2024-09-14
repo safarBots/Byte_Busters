@@ -1,0 +1,9 @@
+{
+  "id": "79b32360-ac3b-4e3b-8ee9-020580d11a21",
+  "name": "playlist",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

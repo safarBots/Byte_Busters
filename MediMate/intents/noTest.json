@@ -1,0 +1,60 @@
+{
+  "id": "2270cd96-43d1-4118-8b37-f1f0a8da37ee",
+  "name": "noTest",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "I’m here to help!",
+                  "type": "description",
+                  "text": [
+                    "I understand, it’s completely fine if you don’t want to take any tests. I’m here to listen. How are you feeling right now?",
+                    "By the way, I can do more than just listen. If you\u0027d like, I can help you:",
+                    "- Watch your favorite video or song on the internet.",
+                    "- Recommend relaxing music or mindfulness exercises.",
+                    "- Even guide you through a quick mental therapy session to help ease your mind.",
+                    "- I can tell you some lame jokes so you can cuss me :)",
+                    "- You can tell me about your day and whatever you are feeling:)",
+                    "- Or you can simply surf whatever you like",
+                    "Let me know what you\u0027d like to do. I\u0027m here for you."
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

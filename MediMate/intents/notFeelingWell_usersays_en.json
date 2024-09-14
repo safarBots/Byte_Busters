@@ -1,0 +1,28 @@
+[
+  {
+    "id": "a2d3602d-0fb8-4fb5-bcdf-5b375d402745",
+    "data": [
+      {
+        "text": "i am not feeling well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af4291f2-5066-4f59-9033-7d3e59ac1b4a",
+    "data": [
+      {
+        "text": "I\u0027m not feeling well 😟",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

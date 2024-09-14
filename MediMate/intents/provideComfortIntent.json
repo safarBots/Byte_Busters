@@ -1,0 +1,62 @@
+{
+  "id": "7df999fb-1ea5-4569-b749-e35dffe940db",
+  "name": "provideComfortIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I’m really sorry to hear you’re feeling this way. It’s completely okay to feel how you do, and I’m here to support you. If you’d like, we have a model that can help assess your condition and provide insights. Would you like to try it and see if it can offer some guidance?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "options": [
+                    {
+                      "subtitle": "Our model can analyze your symptoms and predict possible conditions.",
+                      "link": "http://127.0.0.1:5500/login/homepage.html#predictor",
+                      "text": "Diagnose My Disease"
+                    },
+                    {
+                      "text": "I don\u0027t want to run any test",
+                      "subtitle": "You can continue chatting or share how you\u0027re feeling, no tests required."
+                    }
+                  ],
+                  "type": "chips"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "845f3580-4ba1-47ba-922b-71393b7858ea",
+    "data": [
+      {
+        "text": "i am ill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2fbdb2bf-0f25-41a5-9e19-45524ab79e99",
+    "data": [
+      {
+        "text": "i am not doing well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fcc5e76a-1963-483b-9373-4db86bfa78ee",
+    "data": [
+      {
+        "text": "i am sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f9987d5-a040-40d9-821f-3900f57159e2",
+    "data": [
+      {
+        "text": "I feel lonely",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "380649b2-e8fc-4e12-bcdd-4ba2edff4966",
+    "data": [
+      {
+        "text": "I\u0027m having a hard time.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

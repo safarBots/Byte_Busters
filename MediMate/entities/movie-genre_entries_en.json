@@ -1,0 +1,141 @@
+[
+  {
+    "value": "romantic",
+    "synonyms": [
+      "romantic"
+    ]
+  },
+  {
+    "value": "western",
+    "synonyms": [
+      "western",
+      "westerns"
+    ]
+  },
+  {
+    "value": "cartoons",
+    "synonyms": [
+      "cartoons"
+    ]
+  },
+  {
+    "value": "documentary",
+    "synonyms": [
+      "documentary"
+    ]
+  },
+  {
+    "value": "animation",
+    "synonyms": [
+      "animation"
+    ]
+  },
+  {
+    "value": "thriller",
+    "synonyms": [
+      "thriller",
+      "thrillers"
+    ]
+  },
+  {
+    "value": "fiction",
+    "synonyms": [
+      "fiction"
+    ]
+  },
+  {
+    "value": "comedy",
+    "synonyms": [
+      "comedy",
+      "comedies"
+    ]
+  },
+  {
+    "value": "action",
+    "synonyms": [
+      "action"
+    ]
+  },
+  {
+    "value": "drama",
+    "synonyms": [
+      "drama"
+    ]
+  },
+  {
+    "value": "fantasy",
+    "synonyms": [
+      "fantasy"
+    ]
+  },
+  {
+    "value": "family",
+    "synonyms": [
+      "family"
+    ]
+  },
+  {
+    "value": "horror",
+    "synonyms": [
+      "horror"
+    ]
+  },
+  {
+    "value": "short movie",
+    "synonyms": [
+      "short movie",
+      "short movies"
+    ]
+  },
+  {
+    "value": "romantic comedy",
+    "synonyms": [
+      "romantic comedy",
+      "romantic comedies"
+    ]
+  },
+  {
+    "value": "anime",
+    "synonyms": [
+      "anime"
+    ]
+  },
+  {
+    "value": "black comedy",
+    "synonyms": [
+      "black comedy",
+      "black comedies"
+    ]
+  },
+  {
+    "value": "prank",
+    "synonyms": [
+      "prank"
+    ]
+  },
+  {
+    "value": "love",
+    "synonyms": [
+      "love"
+    ]
+  },
+  {
+    "value": "melodrama",
+    "synonyms": [
+      "melodrama",
+      "melodramas"
+    ]
+  },
+  {
+    "value": "detective",
+    "synonyms": [
+      "detective"
+    ]
+  },
+  {
+    "value": "film noir",
+    "synonyms": [
+      "film noir"
+    ]
+  }
+]

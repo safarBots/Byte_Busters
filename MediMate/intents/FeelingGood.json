@@ -1,0 +1,83 @@
+{
+  "id": "b6aca350-44b2-479b-afe1-5b99839d5a55",
+  "name": "FeelingGood",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "subtitle": "Maintaining a positive mood is great for overall health. Here are a few tips to help you stay well:",
+                  "type": "info",
+                  "title": "I\u0027m glad to hear you\u0027re feeling good! 😊"
+                }
+              ],
+              [
+                {
+                  "subtitle": "🌟 Stay Hydrated\n   - Drink plenty of water throughout the day.\n\n🏃 Get Regular Exercise\n   - Aim for at least 30 minutes of physical activity most days.\n\n🍎 Eat a Balanced Diet\n   - Include a variety of fruits, vegetables, and whole grains in your meals.\n\n💤 Get Enough Sleep\n   - Try to get 7-9 hours of quality sleep each night.\n\n🧘 Practice Stress Management\n   - Engage in activities that help you relax and reduce stress.",
+                  "type": "info",
+                  "title": "Tips to Maintain Your Well-Being"
+                }
+              ],
+              [
+                {
+                  "subtitle": "Explore more options or contact our support team.",
+                  "type": "info",
+                  "image": {
+                    "src": {
+                      "rawUrl": "https://w7.pngwing.com/pngs/344/147/png-transparent-computer-icons-technical-support-help-miscellaneous-blue-text-thumbnail.png"
+                    },
+                    "alt": "Need Help"
+                  },
+                  "title": "Need more help?"
+                }
+              ],
+              [
+                {
+                  "options": [
+                    {
+                      "text": "Explore More Tips"
+                    },
+                    {
+                      "text": "Contact Support"
+                    }
+                  ],
+                  "type": "chips"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
