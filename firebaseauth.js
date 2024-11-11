@@ -92,11 +92,11 @@
         else{
             showMessage('Account does not Exist', 'signInMessage');
         }
-    })hello
+    })
  })*/
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.11.1/firebase-app.js";
-import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, sendPasswordResetEmail } from "https://www.gstatic.com/firebasejs/10.11.1/firebase-auth.js";
+import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, sendPasswordResetEmail,sendEmailVerification } from "https://www.gstatic.com/firebasejs/10.11.1/firebase-auth.js";
 import { getFirestore, setDoc, doc, getDoc } from "https://www.gstatic.com/firebasejs/10.11.1/firebase-firestore.js";
 
 const firebaseConfig = {
@@ -127,6 +127,12 @@ function showMessage(message, divId) {
     console.log(`Element with ID ${divId} not found`);
   }
 }
+// Prevent back button from returning to authenticated pages
+window.history.pushState(null, null, window.location.href);
+window.onpopstate = function () {
+  window.location.href = 'index.html'; // Redirect to index.html
+};
+
 
 // Event listener for password recovery link
 const recoverPasswordLink = document.getElementById("recoverPasswordLink");
@@ -190,6 +196,9 @@ if (signUp) {
     try {
       const userCredential = await createUserWithEmailAndPassword(auth, email, password);
       const user = userCredential.user;
+      // Send email verification
+      await sendEmailVerification(user);
+      showMessage("Verification email sent! Please check your inbox.", "signUpMessage");
       const userData = {
         email: email,
         firstName: firstName,
@@ -264,4 +273,3 @@ if (signIn) {
 } else {
   console.log("Sign-up button not found");
 }
-
