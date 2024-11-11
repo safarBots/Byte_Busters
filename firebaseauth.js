@@ -273,3 +273,4 @@ if (signIn) {
 } else {
   console.log("Sign-up button not found");
 }
+
